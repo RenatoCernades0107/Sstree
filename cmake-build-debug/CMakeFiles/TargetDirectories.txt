@@ -1,0 +1,14 @@
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/ss_tree_test.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/ss_tree_indexing.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/ss_tree_interface.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/compile_test.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/compile_indexing.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/run_test.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/run_indexing.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/test.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/indexing.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/compile_interface.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/run_interface.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/interface.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

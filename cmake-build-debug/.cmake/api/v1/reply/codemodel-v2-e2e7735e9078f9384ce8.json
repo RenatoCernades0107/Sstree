@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SStree",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "compile_indexing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compile_indexing-Debug-ddeb3dc0886cb663e43c.json",
+					"name" : "compile_indexing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "compile_interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compile_interface-Debug-cdedd1f05afd1185bf5c.json",
+					"name" : "compile_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "compile_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compile_test-Debug-9f7c19fdb09560af84eb.json",
+					"name" : "compile_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indexing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indexing-Debug-41ef066712c1ca990dfa.json",
+					"name" : "indexing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interface-Debug-ab8876d7fc8ceb7f4e4d.json",
+					"name" : "interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run_indexing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run_indexing-Debug-6fea07bfe319019d85ee.json",
+					"name" : "run_indexing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run_interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run_interface-Debug-668c1da8c7428461324f.json",
+					"name" : "run_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run_test-Debug-060e93895b484f9e0f4c.json",
+					"name" : "run_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ss_tree_indexing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ss_tree_indexing-Debug-fa2b518f99c2693ad659.json",
+					"name" : "ss_tree_indexing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ss_tree_interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ss_tree_interface-Debug-247a40679180f95625f7.json",
+					"name" : "ss_tree_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ss_tree_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ss_tree_test-Debug-423f330a9132789f7547.json",
+					"name" : "ss_tree_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-91d187b1cfe23e0b0692.json",
+					"name" : "test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/renato/CLionProjects/SStreeIndexing/cmake-build-debug",
+		"source" : "/home/renato/CLionProjects/SStreeIndexing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

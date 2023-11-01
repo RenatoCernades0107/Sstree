@@ -1,0 +1,17 @@
+# ninja log v5
+0	732	1698803954354884175	CMakeFiles/ss_tree_indexing.dir/indexing.cpp.o	3f4f24d99858f0c2
+1682	1783	1698634462044287464	ss_tree_test	61e2815f14025f86
+732	832	1698803954454894399	ss_tree_indexing	383bc59dbd600430
+0	914	1698633834566159493	CMakeFiles/ss_tree_test.dir/main.cpp.o	895472566bee2150
+0	2721	1698642367540238136	CMakeFiles/ss_tree_indexing.dir/SStree.cpp.o	88c9a9a6ef375004
+0	1681	1698634461938285681	CMakeFiles/ss_tree_test.dir/SStree.cpp.o	4d93a0b290f85bbd
+1	708	1698804122189507722	CMakeFiles/ss_tree_indexing.dir/indexing.cpp.o	3f4f24d99858f0c2
+708	807	1698804122287519155	ss_tree_indexing	383bc59dbd600430
+0	775	1698804175516779187	CMakeFiles/ss_tree_indexing.dir/indexing.cpp.o	3f4f24d99858f0c2
+775	869	1698804175609790203	ss_tree_indexing	383bc59dbd600430
+0	736	1698804226219815476	CMakeFiles/ss_tree_indexing.dir/indexing.cpp.o	3f4f24d99858f0c2
+736	823	1698804226306825881	ss_tree_indexing	383bc59dbd600430
+0	737	1698804600041271629	CMakeFiles/ss_tree_indexing.dir/indexing.cpp.o	3f4f24d99858f0c2
+737	848	1698804600151192920	ss_tree_indexing	383bc59dbd600430
+1	808	1698806163652977308	CMakeFiles/ss_tree_indexing.dir/indexing.cpp.o	3f4f24d99858f0c2
+809	944	1698806163788970507	ss_tree_indexing	383bc59dbd600430

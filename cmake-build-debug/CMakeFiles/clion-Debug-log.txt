@@ -1,0 +1,5 @@
+/home/renato/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/renato/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -DCMAKE_CXX_COMPILER=g++ -G Ninja -S /home/renato/CLionProjects/SStreeIndexing -B /home/renato/CLionProjects/SStreeIndexing/cmake-build-debug
+-- Found SFML 2.6.0 in /usr/local/SFML-2.6.0/build
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/renato/CLionProjects/SStreeIndexing/cmake-build-debug
